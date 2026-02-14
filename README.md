@@ -1,4 +1,4 @@
- # JAVA-DSA-JOURNEY 🚀
+# JAVA-DSA-JOURNEY 🚀
 
 This repository documents my journey of learning **Java programming and Data Structures & Algorithms (DSA)** from scratch.
 
@@ -7,36 +7,97 @@ I am using this repository to:
 - Practice DSA problem-solving
 - Maintain daily consistency using GitHub commits
 
----
+## 📁 Project Structure
 
-## 📚 What I am learning
+```
+java-dsa-journey/
+├── README.md
+├── .gitignore
+└── src/
+    ├── basics/              # Java fundamentals
+    │   ├── HelloWorld.java
+    │   ├── Variables.java
+    │   ├── TypeConversion.java
+    │   ├── TypeCasting.java
+    │   └── UserInput.java
+    ├── data-structures/     # Data structure implementations
+    │   ├── arrays/
+    │   ├── strings/
+    │   ├── linkedlist/
+    │   └── trees/
+    ├── algorithms/          # Algorithm implementations
+    │   ├── sorting/
+    │   ├── searching/
+    │   └── recursion/
+    └── practice/            # Problem solving practice
+        ├── easy/
+        ├── medium/
+        └── hard/
+```
 
-- Java Basics
-  - Variables & Data Types
-  - Input / Output
-  - Operators
-  - Conditional Statements
-  - Loops
-- Arrays & Strings
-- Functions & Recursion
-- Core DSA concepts (step by step)
+## 📚 Learning Path
 
----
+### 1. Java Basics (`src/basics/`)
+- ✅ Hello World & Basic Output
+- ✅ Variables & Data Types  
+- ✅ Type Conversion & Casting
+- ✅ User Input with Scanner
+- 🔄 Operators & Expressions
+- 🔄 Conditional Statements
+- 🔄 Loops & Iterations
+
+### 2. Data Structures (`src/data-structures/`)
+- 🔄 Arrays & Array Operations
+- 🔄 Strings & String Manipulation
+- 🔄 Linked Lists (Singly, Doubly)
+- 🔄 Stacks & Queues
+- 🔄 Binary Trees & BST
+- 🔄 Hash Tables & Maps
+
+### 3. Algorithms (`src/algorithms/`)
+- 🔄 Sorting (Bubble, Merge, Quick)
+- 🔄 Searching (Linear, Binary)
+- 🔄 Recursion & Backtracking
+- 🔄 Dynamic Programming
+- 🔄 Graph Algorithms
+
+### 4. Practice Problems (`src/practice/`)
+- 🔄 Easy: Basic problem solving
+- 🔄 Medium: Intermediate concepts
+- 🔄 Hard: Advanced challenges
+
+## 🚀 How to Use
+
+1. **Navigate to topic folder**:
+   ```bash
+   cd src/basics
+   ```
+
+2. **Compile Java file**:
+   ```bash
+   javac FileName.java
+   ```
+
+3. **Run the program**:
+   ```bash
+   java FileName
+   ```
+
+4. **Study the code** and understand the concepts
 
 ## 🛠 Tools Used
 
-- Java
+- Java JDK
 - VS Code
 - Git & GitHub
 
----
-
 ## 📈 Progress Tracking
 
-- Daily commits to track learning streak
-- Focus on understanding concepts deeply rather than rushing
+- ✅ Completed
+- 🔄 In Progress  
+- 🔄 Planned
 
----
+Daily commits to track learning streak and focus on understanding concepts deeply.
 
 ## 🎯 Goal
 
@@ -44,5 +105,5 @@ To become confident in **Java + DSA problem-solving** and build a strong foundat
 
 ---
 
-⭐ This repository is a learning log — improvements will be added regularly.
+⭐ This repository follows a clean, organized structure for efficient learning and easy navigation.
 
