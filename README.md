@@ -7,33 +7,6 @@ I am using this repository to:
 - Practice DSA problem-solving
 - Maintain daily consistency using GitHub commits
 
-## 📁 Project Structure
-
-```
-java-dsa-journey/
-├── README.md
-├── .gitignore
-└── src/
-    ├── basics/              # Java fundamentals
-    │   ├── HelloWorld.java
-    │   ├── Variables.java
-    │   ├── TypeConversion.java
-    │   ├── TypeCasting.java
-    │   └── UserInput.java
-    ├── data-structures/     # Data structure implementations
-    │   ├── arrays/
-    │   ├── strings/
-    │   ├── linkedlist/
-    │   └── trees/
-    ├── algorithms/          # Algorithm implementations
-    │   ├── sorting/
-    │   ├── searching/
-    │   └── recursion/
-    └── practice/            # Problem solving practice
-        ├── easy/
-        ├── medium/
-        └── hard/
-```
 
 ## 📚 Learning Path
 
