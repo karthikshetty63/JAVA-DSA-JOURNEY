@@ -1,0 +1,7 @@
+{
+    "editor.inlineSuggest.enabled": false,
+    "github.copilot.editor.enableAutoCompletions": false,
+    "java.project.sourcePaths": [
+        "src"
+    ]
+}
