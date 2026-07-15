@@ -6,6 +6,7 @@ public class pairs {
             int cur = num[i];
             for (int j = i + 1; j < num.length; j++) {
                 System.out.print("(" + cur + "," + num[j] + ")");
+               
             }
 
         }
