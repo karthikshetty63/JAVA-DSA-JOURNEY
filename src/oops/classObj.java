@@ -44,3 +44,12 @@ class bankAcoount {
     public String username;
     private char password;
 }
+
+class book {
+    public String bookname;
+    private int price;
+
+    void getchangeprice{
+        this.
+    }
+}
