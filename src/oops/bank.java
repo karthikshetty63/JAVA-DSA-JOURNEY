@@ -1,6 +1,6 @@
 package oops;
 
-public class Bank {
+class Bank {
 
     public static void main(String[] args) {
 
@@ -9,16 +9,12 @@ public class Bank {
         karthik.setAcntId(99);
 
         System.out.println(
-                "The account ID is " + karthik.getAcntId()
-        );
-
-       public void setAcntId
+                "The account ID is " + karthik.getAcntId());
 
         karthik.setBalance(5000);
 
         System.out.println(
-                "The balance is " + karthik.getBalance()
-        );
+                "The balance is " + karthik.getBalance());
     }
 }
 
