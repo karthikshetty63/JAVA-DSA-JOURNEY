@@ -2,9 +2,9 @@ package problems;
 
 public class encapsulation {
     public static void main(String[] args) {
-        hostel nalanda = new hostel();
-        nalanda.setStudent("karthik");
-        System.out.println("the student name is" + nalanda.getStudent());
+        hostel nalanda = new hostel("karthik");
+        
+        System.out.println("the student name is" + nalanda.hostel());
     }
 
 }
@@ -14,24 +14,25 @@ class hostel {
     private int id;
     private int roomno;
 
-    public void setStudent(String name) {
+   hostel(String name) {
         this.name = name;
     }
+    void
 
-    public void setID(int id) {
+    hostel(int id) {
         this.id = id;
     }
 
-    public void setRoom(int roomno) {
+   hostel(int roomno) {
         this.roomno = roomno;
     }
 
-    public String getStudent() {
+    public String gethostel() {
         return name;
 
     }
 
-    public int getID() {
+    public int gethostel() {
         return id;
 
     }
