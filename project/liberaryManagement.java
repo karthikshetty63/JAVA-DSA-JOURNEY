@@ -1,7 +1,7 @@
 package project;
 // liberary management project
 
-public class LibraryManagement {
+public class liberaryManagement {
     public static void main(String[] args) {
         PrintedBook printedBook = new PrintedBook();
         printedBook.setTitle("Java Basics");

@@ -1,3 +1,4 @@
+package oops2;
 public class typesofInhertence {
     public static void main(String[] args) {
         Animal parrot = new Animal();
